@@ -1,6 +1,6 @@
 {
-  "name": "react-qr-reader",
-  "version": "3.0.0-beta-1",
+  "name": "react-qr-reader-extended",
+  "version": "3.0.0",
   "description": "A React Component for reading QR codes from the webcam",
   "scripts": {
     "build": "rollup -c",
@@ -23,12 +23,12 @@
     "qrcode",
     "qrreader"
   ],
-  "author": "thomas billiet",
+  "author": "Joseph Sturtevant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-qr-reader/react-qr-reader/issues"
+    "url": "https://github.com/sturtevant/react-qr-reader/issues"
   },
-  "homepage": "https://github.com/react-qr-reader/react-qr-reader#readme",
+  "homepage": "https://github.com/sturtevant/react-qr-reader",
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0",
     "react-dom": "^16.8.0 || ^17.0.0"

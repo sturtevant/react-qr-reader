@@ -1,20 +1,25 @@
 # React QR Reader [![npm version](https://badge.fury.io/js/react-qr-reader.svg)](https://badge.fury.io/js/react-qr-reader) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Known Vulnerabilities](https://snyk.io/test/github/react-qr-reader/react-qr-reader/badge.svg)](https://snyk.io/test/github/react-qr-reader/react-qr-reader)
 
+Based on [react-qr-reader](https://github.com/react-qr-reader/react-qr-reader)
+
 :rocket: React QR Reader component. Check out the [demo](https://react-qr-reader.github.io/react-qr-reader/).
 
 ## Table of contents
 
-- [Use Case](#use-case)
-- [Compatibility](#compatibility)
-- [Installation](#installation)
-  - [NPM](#npm)
-  - [YARN](#yarn)
-- [Example Usage](#example-usage)
-- [QrReader API](#component-api)
-- [Browser support](#browser-support)
-- [Issues](#issues)
-- [Contributing](#contributing)
-- [License](#license)
+- [React QR Reader ![npm version](https://badge.fury.io/js/react-qr-reader) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Known Vulnerabilities](https://snyk.io/test/github/react-qr-reader/react-qr-reader/badge.svg)](https://snyk.io/test/github/react-qr-reader/react-qr-reader)](#react-qr-reader---)
+  - [Table of contents](#table-of-contents)
+  - [Use Case](#use-case)
+  - [Compatibility](#compatibility)
+  - [Installation](#installation)
+    - [NPM](#npm)
+    - [YARN](#yarn)
+  - [Example Usage](#example-usage)
+  - [Component API](#component-api)
+  - [Maintainers](#maintainers)
+  - [Browser Support](#browser-support)
+  - [Issues](#issues)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Use Case
 
